@@ -1,1 +1,6 @@
-online
+Hello User,
+We are glad you're using Koala Selfbot and we are even more excited to announce a new version of the selfbot. You can follow the following link to join our discord server for the latest updates.
+https://discord.gg/efQnFyTSds
+
+Regards
+Infamous Koala
